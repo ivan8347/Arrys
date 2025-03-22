@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arrays", "arrays\arrays.vcxproj", "{87AB2D28-C6BE-47F7-82C9-A83FE083EDF4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shift", "Shift\Shift.vcxproj", "{E2CE19AF-FDA4-468D-872B-F7076634DEF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{87AB2D28-C6BE-47F7-82C9-A83FE083EDF4}.Release|x64.Build.0 = Release|x64
 		{87AB2D28-C6BE-47F7-82C9-A83FE083EDF4}.Release|x86.ActiveCfg = Release|Win32
 		{87AB2D28-C6BE-47F7-82C9-A83FE083EDF4}.Release|x86.Build.0 = Release|Win32
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Debug|x64.ActiveCfg = Debug|x64
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Debug|x64.Build.0 = Debug|x64
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Debug|x86.Build.0 = Debug|Win32
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Release|x64.ActiveCfg = Release|x64
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Release|x64.Build.0 = Release|x64
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Release|x86.ActiveCfg = Release|Win32
+		{E2CE19AF-FDA4-468D-872B-F7076634DEF9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
